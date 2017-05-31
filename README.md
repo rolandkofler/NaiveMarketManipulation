@@ -1,7 +1,7 @@
 # Cryptoeconomics Experiments in Prediction Markets and Futarchy
 Purpose of the experiments is to verify the theories of prediction markets and futarchy.
 Ethereum Dev Grant attributed to Gnosis.pm. See 
-[Gnosis announcement]
+[Gnosis announcement].
 
 ## Experiments included
 ### Manipulate a market with known outcome
